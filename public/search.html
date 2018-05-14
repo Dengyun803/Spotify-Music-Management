@@ -1,0 +1,85 @@
+<html>
+	<head>
+		<meta content="initial-scale=1.0" name="viewport">
+		<script src=
+		"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"
+		type="text/javascript"></script>
+		<script src="https://cdn.jsdelivr.net/lodash/4.17.1/lodash.min.js"></script>
+		<script type="text/javascript" src="search.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title></title>
+	</head>
+	<body onload="startApp()">
+		<h2>
+			CS349 A3
+		</h2><!-- "Page" to show when not logged in -->
+		<div id="searchboard">
+			<p>
+				Search songs with
+			</p>
+			
+			<input type="radio" name="search tag" value="any" checked> any <br>
+			<input type="radio" name="search tag" value="all"> all <br>
+			
+			<p>
+				of Tags:
+			</p>
+			
+			<div id="tags">
+				
+			</div>
+			
+			<p>
+				and Rating greater or equal than:
+			</p>
+			<p>
+			
+			<input type="radio" name="search rating" value="0"> 0 <br>
+			<input type="radio" name="search rating" value="1"> 1 <br>
+			<input type="radio" name="search rating" value="2"> 2 <br>
+			<input type="radio" name="search rating" value="3"> 3 <br>
+			<input type="radio" name="search rating" value="4"> 4 <br>
+			<input type="radio" name="search rating" value="5"> 5 <br>
+			
+			</p>
+			
+			
+			<div class="buttons">
+				<button id="search" class="btn">Search!</button>
+				<div class="clear-float"></div>
+				<button id="back" class="backbtn">back</button>
+			</div>
+			
+		</div>
+		
+		<div id = "resultboard">
+			<p>
+				Result
+			</p>		
+			
+			<ul id="songlist"></ul>
+			
+			
+			<div class="buttons">
+				<button id="songs" class="btn">edit</button>
+				<div class="clear-float"></div>
+				<button class="backbtn">back</button>
+			</div>
+		</div>
+		
+		<div id = "songboard">
+			<p>
+				Song Name
+			</p>
+			
+			Tags: <br>
+			
+			Rating:
+			
+			<div class="buttons">
+				<button class="backbtn">back</button>
+			</div>
+		</div>
+	</body>
+</html>

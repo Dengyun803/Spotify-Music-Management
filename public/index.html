@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="initial-scale=1.0" name="viewport">
+		<script src=
+		"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"
+		type="text/javascript"></script>
+		<script src="https://cdn.jsdelivr.net/lodash/4.17.1/lodash.min.js"></script>
+		<script type="text/javascript" src="app.js"></script>
+		
+	    
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title></title>
+	</head>
+	<body onload="startApp()">
+		<h2>
+			CS349 A3
+		</h2><!-- "Page" to show when not logged in -->
+		<div id="login">
+		    <p>
+				<button id="start" >Log in</button>
+			</p>
+	    </div><!-- "Page" to show when logged in -->
+		<div id="loggedin">
+			<p>
+				Playlists:
+			</p>
+			<ul id="playlists"></ul>
+			
+			<p>
+				Tags:
+			</p>
+			<ul id="tags"></ul>
+			
+		<!--	<p>
+				<script language="javascript">
+					var obj = $.get('http://localhost:3000/Tags', function(data, status){
+						document.write(data[0].name);
+					});
+					
+				</script>
+			</p> -->
+	<!--		<a href="">Add Tags</a>
+			<a href="">Remove Tags</a>-->
+			<h3 >put name in this textbox to add/remove a tag</h3>
+			<input type="text" id="inputbox"> 
+			<div class="error"></div>
+			<div class="buttons">
+				
+				<button id="addTag" class="btn">Add Tag</button>
+				<div class="clear-float"></div>
+				<button id="deleteTag" class="btn">Delete Tag</button>
+				<div class="clear-float"></div>
+				<button id="assign" class="btn">Assign</button>
+				<div class="clear-float"></div>
+				<button id="search" class="btn">Search</button>
+				<div class="clear-float"></div>
+				<button id="synchronize" class="btn">Synchronize</button>
+				<div class="clear-float"></div>
+				<button id="logout" class="backbtn">Log out</button>
+			</div>
+			
+		</div>
+		<div id="assignboard">
+			<p>
+				Song name: 
+			</p>
+			<input type="text" id="inputbox2"> 
+			<p>
+				Tags:
+			</p>
+			
+			<div id="tagboxs">
+				
+			</div>
+			
+			<p>
+				Rating:
+			</p>
+			<p>
+			
+			<input type="radio" name="assign rating" value="0"> 0 <br>
+			<input type="radio" name="assign rating" value="1"> 1 <br>
+			<input type="radio" name="assign rating" value="2"> 2 <br>
+			<input type="radio" name="assign rating" value="3"> 3 <br>
+			<input type="radio" name="assign rating" value="4"> 4 <br>
+			<input type="radio" name="assign rating" value="5"> 5 <br>
+			
+			</p>
+			<div class="buttons">
+				<button id="confirm" class="btn">Confirm</button>
+				<div class="clear-float"></div>
+				<button id="backtoindex" class="backbtn">Back</button>
+			</div>
+		</div>
+		
+	</body>
+</html>

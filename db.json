@@ -1,0 +1,370 @@
+{
+  "Tags": [
+    {
+      "name": "one",
+      "content[]": " ",
+      "id": 1
+    },
+    {
+      "name": "two",
+      "content[]": " ",
+      "id": 2
+    },
+    {
+      "name": "three",
+      "content[]": " ",
+      "id": 3
+    }
+  ],
+  "Songs": [
+    {
+      "name": "Cross Eyed Mary",
+      "tags": "[]",
+      "rating": "0",
+      "id": 2
+    },
+    {
+      "name": "Cheap Day Return",
+      "tags": "[]",
+      "rating": "0",
+      "id": 3
+    },
+    {
+      "name": "Wond'Ring Aloud",
+      "tags": "[]",
+      "rating": "0",
+      "id": 4
+    },
+    {
+      "name": "Up To Me",
+      "tags": "[]",
+      "rating": "0",
+      "id": 5
+    },
+    {
+      "name": "Mother Goose",
+      "tags": "[]",
+      "rating": "0",
+      "id": 6
+    },
+    {
+      "name": "My God",
+      "tags": "[]",
+      "rating": "0",
+      "id": 7
+    },
+    {
+      "name": "Slipstream",
+      "tags": "[]",
+      "rating": "0",
+      "id": 8
+    },
+    {
+      "name": "Hymn 43",
+      "tags": "[]",
+      "rating": "0",
+      "id": 9
+    },
+    {
+      "name": "Lick Your Fingers Clean",
+      "tags": "[]",
+      "rating": "0",
+      "id": 12
+    },
+    {
+      "name": "Wind Up - Quad Version",
+      "tags": "[]",
+      "rating": "0",
+      "id": 13
+    },
+    {
+      "name": "Ian Anderson Interview",
+      "tags": "[]",
+      "rating": "0",
+      "id": 14
+    },
+    {
+      "name": "December African Rain",
+      "tags": "[]",
+      "rating": "0",
+      "id": 15
+    },
+    {
+      "name": "African Sky Blue",
+      "tags": "[]",
+      "rating": "0",
+      "id": 16
+    },
+    {
+      "name": "Digging for Some Words",
+      "tags": "[]",
+      "rating": "0",
+      "id": 17
+    },
+    {
+      "name": "Journey's Island (Emalonjeni)",
+      "tags": "[]",
+      "rating": "0",
+      "id": 18
+    },
+    {
+      "name": "Africa (What Made You So Strong)",
+      "tags": "[]",
+      "rating": "0",
+      "id": 19
+    },
+    {
+      "name": "Woza Friday",
+      "tags": "[]",
+      "rating": "0",
+      "id": 21
+    },
+    {
+      "name": "The Crossing (Osiyeza)",
+      "tags": "[]",
+      "rating": "0",
+      "id": 22
+    },
+    {
+      "name": "Into the Picture",
+      "tags": "[]",
+      "rating": "0",
+      "id": 24
+    },
+    {
+      "name": "I Call Your Name",
+      "tags": "[]",
+      "rating": "0",
+      "id": 25
+    },
+    {
+      "name": "Let Me Be",
+      "tags": "[]",
+      "rating": "0",
+      "id": 26
+    },
+    {
+      "name": "Dance Hall Blues",
+      "tags": "[]",
+      "rating": "0",
+      "id": 27
+    },
+    {
+      "name": "80 Year Old Mooshim",
+      "tags": "[]",
+      "rating": "0",
+      "id": 28
+    },
+    {
+      "name": "Why Don’t you Do Right",
+      "tags": "[]",
+      "rating": "0",
+      "id": 29
+    },
+    {
+      "name": "Going Back",
+      "tags": "[]",
+      "rating": "0",
+      "id": 30
+    },
+    {
+      "name": "500 Years O' Blues",
+      "tags": "[]",
+      "rating": "0",
+      "id": 31
+    },
+    {
+      "name": "Mama is a Revolutionary",
+      "tags": "[]",
+      "rating": "0",
+      "id": 32
+    },
+    {
+      "name": "Memego",
+      "tags": "[]",
+      "rating": "0",
+      "id": 33
+    },
+    {
+      "name": "Brighter",
+      "tags": "[]",
+      "rating": "0",
+      "id": 35
+    },
+    {
+      "name": "We Won't Be Alone (feat. Laura Brehm)",
+      "tags": "[]",
+      "rating": "0",
+      "id": 36
+    },
+    {
+      "name": "Viva La Vida",
+      "tags": "[]",
+      "rating": "0",
+      "id": 37
+    },
+    {
+      "name": "Warriors",
+      "tags": "[]",
+      "rating": "0",
+      "id": 38
+    },
+    {
+      "name": "Lean On (feat. MØ & DJ Snake)",
+      "tags": "[]",
+      "rating": "0",
+      "id": 39
+    },
+    {
+      "name": "Blue Skies - REVOKE Remix",
+      "tags": "[]",
+      "rating": "0",
+      "id": 40
+    },
+    {
+      "name": "Legends (feat. TeamMate)",
+      "tags": "[]",
+      "rating": "0",
+      "id": 41
+    },
+    {
+      "name": "Disconnected",
+      "tags": "[]",
+      "rating": "0",
+      "id": 42
+    },
+    {
+      "name": "Ignite - 2016 League Of Legends World Championship",
+      "tags": "[]",
+      "rating": "0",
+      "id": 43
+    },
+    {
+      "name": "He's a Pirate - Soundtrack from \"Pirates of the Carribean: Dead Man Chest\"",
+      "tags": "[]",
+      "rating": "0",
+      "id": 44
+    },
+    {
+      "name": "Ouragan - Hit 1986",
+      "tags": "[]",
+      "rating": "0",
+      "id": 45
+    },
+    {
+      "name": "Tubular Bells - The Exorcist",
+      "tags": "[]",
+      "rating": "0",
+      "id": 46
+    },
+    {
+      "name": "Mob",
+      "tags": "[]",
+      "rating": "0",
+      "id": 47
+    },
+    {
+      "name": "Monster",
+      "tags": "[]",
+      "rating": "0",
+      "id": 48
+    },
+    {
+      "name": "Suspiria - Originale",
+      "tags": "[]",
+      "rating": "0",
+      "id": 49
+    },
+    {
+      "name": "The Winner Takes It All",
+      "tags": "[]",
+      "rating": "0",
+      "id": 50
+    },
+    {
+      "name": "Scatterlings of Africa",
+      "tags": "[]",
+      "rating": "0",
+      "id": 52
+    },
+    {
+      "name": "Cruel Crazy Beautiful World",
+      "tags": "[]",
+      "rating": "0",
+      "id": 54
+    },
+    {
+      "name": "Asimbonanga",
+      "tags": "[]",
+      "rating": "0",
+      "id": 55
+    },
+    {
+      "name": "Impi",
+      "tags": "[\"one\"]",
+      "rating": "0",
+      "id": 56
+    },
+    {
+      "name": "Aqualung",
+      "tags": "[\"one\"]",
+      "rating": "4",
+      "id": 57
+    },
+    {
+      "name": "Your Time Will Come",
+      "tags": "[\"one\",\"two\",\"three\"]",
+      "rating": "5",
+      "id": 58
+    },
+    {
+      "name": "Circle of Light",
+      "tags": "[\"one\"]",
+      "rating": "0",
+      "id": 59
+    },
+    {
+      "name": "Wake Up and Rise",
+      "tags": "[\"one\",\"two\"]",
+      "rating": "0",
+      "id": 60
+    },
+    {
+      "name": "Great Heart",
+      "tags": "[\"two\"]",
+      "rating": "0",
+      "id": 61
+    },
+    {
+      "name": "Locomotive Breath",
+      "tags": "[\"two\"]",
+      "rating": "0",
+      "id": 62
+    },
+    {
+      "name": "Rebel",
+      "tags": "[\"two\"]",
+      "rating": "0",
+      "id": 63
+    },
+    {
+      "name": "Wind Up",
+      "tags": "[\"three\"]",
+      "rating": "0",
+      "id": 64
+    },
+	  {
+      "name": "Momma is a Revolutionary",
+      "tags": "[\"three\"]",
+      "rating": "0",
+      "id": 65
+    },
+	  {
+      "name": "Why Don't You Do Right",
+      "tags": "[\"three\"]",
+      "rating": "0",
+      "id": 66
+    }
+	  
+  ]
+}
